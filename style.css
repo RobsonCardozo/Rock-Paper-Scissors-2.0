@@ -1,4 +1,7 @@
+/*ASAP font*/
 @import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600&display=swap');
+
+/*global*/
 * {
     margin: 0;
     padding: 0;
@@ -92,11 +95,4 @@ header > h1 {
 .choice:hover {
     cursor: pointer;
     background-color: rgb(206, 206, 206);
-}
-
-#action {
-    text-align: center;
-    font-family: Asap, sans-serif;
-    font-weight: bold;
-    font-size: 20px;
 }
